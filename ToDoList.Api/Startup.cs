@@ -55,6 +55,10 @@ namespace ToDoList.Api
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            if (!env.IsDevelopment() && bool.Parse(Configuration["EncryptionEnabled"]))
+            {
+                throw new Exception("Encryption must be enable in all non-development enviroments");
+            }
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

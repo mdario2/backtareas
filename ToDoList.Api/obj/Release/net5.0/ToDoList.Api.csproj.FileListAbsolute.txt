@@ -61,3 +61,8 @@ C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\ToDoList.Api
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\ref\ToDoList.Api.dll
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\ToDoList.Api.pdb
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\ToDoList.Api.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\bin\Release\net5.0\out\web.config
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\bin\Release\net5.0\out\appsettings.Development.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\bin\Release\net5.0\out\appsettings.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\bin\Release\net5.0\out\ToDoList.Api.deps.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\bin\Release\net5.0\out\ToDoList.Api.runtimeconfig.json

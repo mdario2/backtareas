@@ -1,6 +1,11 @@
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\ToDoList.Api.exe
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\out\web.config
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\out\appsettings.Development.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\out\appsettings.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\out\ToDoList.Api.deps.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\out\ToDoList.Api.runtimeconfig.json
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\ToDoList.Api.dll
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\ToDoList.Api.runtimeconfig.json
 C:\Users\ASUS\source\repos\ToDoList\ToDoList.Api\obj\Release\net5.0\PubTmp\Out\ToDoList.Api.pdb
